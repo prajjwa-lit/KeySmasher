@@ -169,13 +169,5 @@ Please open issues for suggestions or bug reports.
 
 ---
 
-## License
-
-This project is licensed under the ISC License.
-
----
-
 ## Acknowledgements
-
 - Inspired by popular typing test platforms like Monkeytype and TypeRacer.
-- Built with ❤️ by Prateek Pandey and contributors.
