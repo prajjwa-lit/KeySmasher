@@ -8,7 +8,6 @@ KeySmasher is a modern, full-stack, multiplayer typing speed test and racing app
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -17,7 +16,6 @@ KeySmasher is a modern, full-stack, multiplayer typing speed test and racing app
 - [Usage](#usage)
 - [API Overview](#api-overview)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -50,11 +48,6 @@ KeySmasher is a modern, full-stack, multiplayer typing speed test and racing app
 
 ---
 
-## Screenshots
-
-> _Add screenshots or GIFs here to showcase the UI and features._
-
----
 
 ## Getting Started
 
