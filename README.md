@@ -34,7 +34,7 @@ KeySmasher is a modern, full-stack, multiplayer typing speed test and racing app
 ## Tech Stack
 
 **Frontend:**
-- React 19 (with Vite)
+- React 19 
 - TailwindCSS for styling
 - React Router for navigation
 - React Icons for UI elements
